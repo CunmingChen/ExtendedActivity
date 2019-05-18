@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="number">
+        <item>Alpha Option01</item>
+        <item>Beta Option02</item>
+        <item>Charlie Option03</item>
+    </string-array>
+    <string-array name="number1">
+        <item>Alpha Option01</item>
+        <item>Beta Option02</item>
+        <item>Charlie Option03</item>
+    </string-array>
+
+</resources>
