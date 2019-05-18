@@ -85,15 +85,15 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 ``` 
 ## **实验截图：**
 ### 基本界面
-![Alt](https://github.com/CunmingChen/ExtendedActivity/pic1.png?raw=true#pic_center)
-![Alt](https://github.com/CunmingChen/ExtendedActivity/pic2.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/ExtendedActivity/blob/master/pic1.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/ExtendedActivity/blob/master/pic2.png?raw=true#pic_center)
 ### 界面截图1
-![Alt](https://github.com/CunmingChen/ExtendedActivity/pic3.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/ExtendedActivity/blob/master/pic3.png?raw=true#pic_center)
 ### 界面截图2 
-![Alt](https://github.com/CunmingChen/ExtendedActivity/pic4.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/ExtendedActivity/blob/master/pic4.png?raw=true#pic_center)
 ### 界面截图3 
-![Alt](https://github.com/CunmingChen/ExtendedActivity/pic5.png?raw=true#pic_center) 
+![Alt](https://github.com/CunmingChen/ExtendedActivity/blob/master/pic5.png?raw=true#pic_center) 
 ### 界面截图4  
-![Alt](https://github.com/CunmingChen/ExtendedActivity/pic6.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/ExtendedActivity/blob/master/pic6.png?raw=true#pic_center)
 ### 界面截图5 
-![Alt](https://github.com/CunmingChen/ExtendedActivity/pic7.png?raw=true#pic_center) 
+![Alt](https://github.com/CunmingChen/ExtendedActivity/blob/master/pic7.png?raw=true#pic_center) 
